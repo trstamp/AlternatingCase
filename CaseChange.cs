@@ -35,6 +35,6 @@ class CaseChange{
                 }
             }
         }
-        return sb;
+        return sb.ToString();
     }
 }
